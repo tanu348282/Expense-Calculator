@@ -47,6 +47,8 @@ The program asks for:
 # 📸 Output Screenshot
 ![Expense Calculator Output](screenshot/output.png)
 
+# Author
+Tanishka Chawla
 
 
 
