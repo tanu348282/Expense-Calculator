@@ -47,28 +47,23 @@ Enter the Charge per Unit = 10
 Enter the Number of Persons Living In Flat = 4
 
 ### Output:
-Expense Breakdown -----
+Expense Breakdown 
 Rent:50000.0
 Grocery: 23000.0
 Water Bill:  8000.0
 Electricity Bill: 3850.0
 Total Expense: 84850.0
 
-
 Each person has to pay = 14141.666666666666
 
 
 🚀 How to Run
-
 1. Make sure Python 3 is installed  
 2. Clone this repository or download the files  
-3. Run using:
-
-```bash
-python main.py
+3. Run using: python main.py
 
 # 📸 Output Screenshot
 ![Expense Calculator Output](screenshot/output.png)
 
-## 📸 Output Screenshot
-![Expense Calculator Output](screenshot/output.png)
+
+
