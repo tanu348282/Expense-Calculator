@@ -38,24 +38,6 @@ The program asks for:
 - Amount Each Person Has to Pay  
 - Results saved in `expenses.txt`  
 
-## ▶️ Example Run
-Enter the Flat Rent = 20000
-Enter the Grocery Amount = 5000
-Enter the Total Water Bill Amount = 1000
-Enter the Total Electricity Units Spent = 300
-Enter the Charge per Unit = 10
-Enter the Number of Persons Living In Flat = 4
-
-### Output:
-Expense Breakdown 
-Rent:50000.0
-Grocery: 23000.0
-Water Bill:  8000.0
-Electricity Bill: 3850.0
-Total Expense: 84850.0
-
-Each person has to pay = 14141.666666666666
-
 
 🚀 How to Run
 1. Make sure Python 3 is installed  
@@ -64,6 +46,7 @@ Each person has to pay = 14141.666666666666
 
 # 📸 Output Screenshot
 ![Expense Calculator Output](screenshot/output.png)
+
 
 
 
